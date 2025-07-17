@@ -3,7 +3,7 @@
 To analyze Uber trip data using Power BI and uncover riding behavior, booking trends, time patterns, location-based usage, and vehicle performance—helping stakeholders optimize operations, improve services, and enhance customer satisfaction.
 
 ## 2. Dataset Used
-Data Source: Uber trip dataset in CSV format
+Data Source: [Uber trip dataset in CSV format](https://github.com/satish2502/Data-Analytics---Uber-Trip-Analysis-And-Riding-Patterns-Dashboard-Using-Power-Bi/blob/main/Uber%20Trip%20Details.xlsx)
 
 Fields Included:
 
