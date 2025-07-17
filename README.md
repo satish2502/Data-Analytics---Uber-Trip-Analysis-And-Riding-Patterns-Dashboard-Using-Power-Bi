@@ -1,4 +1,4 @@
-# Data-Analytics---Uber-Trip-Analysis-And-Riding-Patterns-Dashboard-Using-Power-Bi
+# Data-Analytics-Uber-Trip-Analysis-And-Riding-Patterns-Dashboard-Using-Power-Bi
 ## 1. Objective
 To analyze Uber trip data using Power BI and uncover riding behavior, booking trends, time patterns, location-based usage, and vehicle performance—helping stakeholders optimize operations, improve services, and enhance customer satisfaction.
 
