@@ -131,3 +131,5 @@ Improve fleet allocation and customer targeting
 Optimize trip pricing and driver distribution
 
 Enhance user experience by understanding peak demand and location trends
+
+## Dashboard Link - https://github.com/satish2502/Data-Analytics---Uber-Trip-Analysis-And-Riding-Patterns-Dashboard-Using-Power-Bi/blob/main/uber%20dashboard.pbix
